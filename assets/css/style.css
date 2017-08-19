@@ -1,11 +1,16 @@
 body {
 	background-image: url('assets/images/concrete-texture.png');
 	background-color: grey;
+	width: 960px;
 	margin:;
 	padding:;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: ;
 	line-height: ;
+}
+
+header {
+
 }
 
 h1 {
@@ -16,4 +21,8 @@ h1 {
 
 nav {
 	
+}
+
+aside {
+	width: 270px;
 }
